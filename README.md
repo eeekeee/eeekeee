@@ -15,7 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-## Frontend
 ### DailyTracks
 https://github.com/DailyTracks
