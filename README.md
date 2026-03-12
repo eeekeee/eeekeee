@@ -1,5 +1,3 @@
-# eeekeee 
-
 <h1 align="center">Hi 👋, I'm HyoJin Choi</h1>
 
 ---
